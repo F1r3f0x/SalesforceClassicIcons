@@ -8,7 +8,7 @@ List of the included Salesforce icons i could find, feel free to contribute if y
 
 
 ## How to use
-In a formula just use '/{URL}' to use the icon of your one salesforce org.
+In a formula just use '/{URL}' to use the icon of your own salesforce org.
 
 ## Icons
 | URL | Icon|
