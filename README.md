@@ -5,10 +5,11 @@ List of the included Salesforce icons i could find, feel free to contribute if y
 *  http://salesforce-stuff.blogspot.com/2012/02/more-salesforce-icons.html
 *  http://salesforce-stuff.blogspot.com/2012/01/salesforce-images.html
 *  http://www.christiernan.com/where-to-find-those-salesforce-stock-images/
+*  http://www.vermanshul.com/2017/10/quick-tips-salesforce-default-images.html
 
 
 ## How to use
-In a formula just use '/{URL}' to use the icon of your own salesforce org.
+In a formula just use '/{URL}' this will ref the icon of your own salesforce org.
 
 ## Icons
 | URL | Icon|
