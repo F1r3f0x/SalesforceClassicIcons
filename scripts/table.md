@@ -1,21 +1,3 @@
-# Salesforce Classic Icons
-List of the included Salesforce icons i could find, feel free to contribute if you have found more.
-
-## Sources:
-*  http://salesforce-stuff.blogspot.com/2012/02/more-salesforce-icons.html
-*  http://salesforce-stuff.blogspot.com/2012/01/salesforce-images.html
-*  http://www.christiernan.com/where-to-find-those-salesforce-stock-images/
-*  http://www.vermanshul.com/2017/10/quick-tips-salesforce-default-images.html
-
-
-## How to use
-In a formula just use '/{URL}' this will ref the icon of your own salesforce org.
-
-## TODO:
-* Scan for all the posible sizes
-* Find all the icons (duh)
-
-## Icons
 | URL | Icon|
 |-|-|
 | img/accountsSplashBg.gif | ![icon](https://na1.salesforce.com/img/accountsSplashBg.gif)
@@ -665,5 +647,3 @@ In a formula just use '/{URL}' this will ref the icon of your own salesforce org
 | img/twistySubhDown.gif | ![icon](https://na1.salesforce.com/img/twistySubhDown.gif)
 | img/twistySubhRight.gif | ![icon](https://na1.salesforce.com/img/twistySubhRight.gif)
 | img/x.gif | ![icon](https://na1.salesforce.com/img/x.gif)
-
-@F1r3f0x - 2020
